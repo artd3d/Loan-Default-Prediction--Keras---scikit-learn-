@@ -1,0 +1,53 @@
+0
+loan_amnt
+int_rate
+installment
+annual_inc
+dti
+open_acc
+pub_rec
+revol_bal
+revol_util
+total_acc
+mort_acc
+pub_rec_bankruptcies
+application_type_INDIVIDUAL
+application_type_infrequent_sklearn
+emp_length_1 year
+emp_length_10+ years
+emp_length_2 years
+emp_length_3 years
+emp_length_4 years
+emp_length_5 years
+emp_length_6 years
+emp_length_7 years
+emp_length_8 years
+emp_length_9 years
+emp_length_< 1 year
+grade_A
+grade_B
+grade_C
+grade_D
+grade_E
+grade_F
+grade_infrequent_sklearn
+home_ownership_MORTGAGE
+home_ownership_OWN
+home_ownership_RENT
+home_ownership_infrequent_sklearn
+initial_list_status_f
+initial_list_status_w
+purpose_car
+purpose_credit_card
+purpose_debt_consolidation
+purpose_home_improvement
+purpose_major_purchase
+purpose_medical
+purpose_other
+purpose_small_business
+purpose_infrequent_sklearn
+term_ 36 months
+term_ 60 months
+verification_status_Not Verified
+verification_status_Source Verified
+verification_status_Verified
